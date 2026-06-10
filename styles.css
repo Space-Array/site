@@ -161,10 +161,16 @@ footer {
   padding: 0 1.5rem;
 }
 
+.proposal-hero a {
+  display: inline-block;
+  max-width: 520px;
+  width: 100%;
+}
+
 .proposal-hero img {
-  width: min(100%, 720px);
-  max-height: 520px;
-  object-fit: contain;
+  display: block;
+  width: 100%;
+  height: auto;
   border-radius: 16px;
   box-shadow: 0 16px 40px rgba(0,0,0,0.28);
 }
