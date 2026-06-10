@@ -156,14 +156,15 @@ footer {
 }
 
 .proposal-hero {
-  margin: 3rem auto;
+  margin: 2.5rem auto 3rem auto;
   text-align: center;
   padding: 0 1.5rem;
 }
 
 .proposal-hero img {
-  max-width: 1000px;
-  width: 100%;
-  border-radius: 20px;
-  box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  width: min(100%, 720px);
+  max-height: 520px;
+  object-fit: contain;
+  border-radius: 16px;
+  box-shadow: 0 16px 40px rgba(0,0,0,0.28);
 }
