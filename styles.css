@@ -174,3 +174,7 @@ footer {
   border-radius: 16px;
   box-shadow: 0 16px 40px rgba(0,0,0,0.28);
 }
+
+.card + .card {
+  margin-top: 1rem;
+}
