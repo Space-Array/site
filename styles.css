@@ -154,3 +154,16 @@ footer {
   nav a { margin: 0 0.8rem 0.5rem 0; display: inline-block; }
   .two-col { grid-template-columns: 1fr; }
 }
+
+.proposal-hero {
+  margin: 3rem auto;
+  text-align: center;
+  padding: 0 1.5rem;
+}
+
+.proposal-hero img {
+  max-width: 1000px;
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+}
