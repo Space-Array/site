@@ -1,0 +1,35 @@
+﻿Id,Start time,Completion time,Email,Name,First name,Last name,Affiliation,Main interests (keywords)
+1,6/13/2026 8:49,6/13/2026 8:49,anonymous,,Marcello ,Giroletti,INAF Istituto di Radioastronomia,"AGN, jets, black holes, transients, compact objects"
+2,6/13/2026 9:10,6/13/2026 9:11,anonymous,,Georgios Filippos,Paraschos,FINCA / Aalto / MPIfR,"AGN, Jet, SMBH, multi-messenger, VLBI"
+3,6/13/2026 9:24,6/13/2026 9:26,anonymous,,Saurabh,Saurabh,Max Planck Institute for Radio Astronomy,"Testing General Relativity, Accretion, Black hole Imaging, VLBI"
+4,6/13/2026 9:52,6/13/2026 9:53,anonymous,,Sándor,Frey,Konkoly Observatory,"quasars, jets, high redshift "
+5,6/13/2026 10:02,6/13/2026 10:05,anonymous,,George,Miley,"Sterrewacht Leiden, Leiden University",Radio sources and their role in galaxy formation and evolution
+6,6/13/2026 10:11,6/13/2026 10:12,anonymous,,Rahul,Kumar Walia,University College London,"Gravitational Physics, Test of Gravity Theories, Photon Rings, Ultra-Compact Objects"
+7,6/13/2026 10:14,6/13/2026 10:14,anonymous,,Chi-kwan,Chan,University of Arizona,"Theory, simulations, data processing"
+8,6/13/2026 10:36,6/13/2026 10:40,anonymous,,Yaocheng,Chen,"IAG, University of São Paulo","FPGA, GPU interferometry"
+9,6/13/2026 11:06,6/13/2026 11:06,anonymous,,José L.,Gómez,Instituto de Astrofísica de Andalucía,Photon ring
+10,6/13/2026 11:06,6/13/2026 11:07,anonymous,,Pierre,Cox,Institut d'Astrophysique de Paris,Galaxies Gravitational Amplification 
+11,6/13/2026 9:43,6/13/2026 11:12,anonymous,,Sarrvesh,Sridhar,Square Kilometre Array Observatory (SKAO),Space interferometry and simulating synthetic data
+12,6/13/2026 11:23,6/13/2026 11:26,anonymous,,Manuel,Martin-Neira,European Space Agency,"Orbital configuration, relative time-positioning, syntonization/synchronization concepts, optical inter-satellite links, on-board correlator, frequency phase transfer and calibration techniques"
+13,6/13/2026 11:36,6/13/2026 11:38,anonymous,,Rocco,Lico,"Institute of Radio Astronomy (IRA-INAF, Italy)",Black holes and relativistic jets
+14,6/13/2026 11:42,6/13/2026 11:43,anonymous,,Matthias,Kadler,JMU Würzburg,Relativistic Jets 
+15,6/13/2026 12:02,6/13/2026 12:03,anonymous,,Lars,Bååth,"Halmstad University, Sweden","AGN jets and BH, interferometry"
+16,6/13/2026 11:34,6/13/2026 12:29,anonymous,,Florian,Eppel,Joint Institute for VLBI ERIC,"AGN, radio jets, multi-wavelength variability, FRBs"
+17,6/13/2026 13:02,6/13/2026 13:05,anonymous,,Efthalia (Thalia),Traianou,IWR,"AGN, Blazars, SMBHB, Multi-messenger Astronomy"
+18,6/13/2026 13:45,6/13/2026 13:46,anonymous,,Rob,Fender,University of Oxford,Jets accretion radio astronomy transients
+19,6/13/2026 15:41,6/13/2026 15:42,anonymous,,Daryl,Haggard,McGill University / Trottier Space Institute,"black hole accretion and outflow, multi-messenger astrophysics"
+20,6/13/2026 15:42,6/13/2026 15:42,anonymous,,Marusa,Bradac,"University of Ljubljana, FMF","Epoch of reionization, dark matter, black holes"
+21,6/13/2026 15:44,6/13/2026 15:46,anonymous,,Mamta,Pommier,University of Lyon,"Space based radio astronomy, VLBI from space"
+22,6/13/2026 16:27,6/13/2026 16:28,anonymous,,David,Hughes,"Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE) ","Galaxy Evolution, AGN, Cosmology"
+23,6/13/2026 17:24,6/13/2026 17:24,anonymous,,Martina,Wiedner,"Observatoire de Paris, France",Heterodyne Instrumentation
+24,6/13/2026 19:16,6/13/2026 19:17,anonymous,,Boon Kok,Tan,University of Oxford,Spectrometric heterodyne receivers development for Space Array
+25,6/13/2026 23:48,6/13/2026 23:49,anonymous,,Mar,Mezcua,Instituto de Ciencias del Espacio (ICE-CSIC),"supermassive black holes, intermediate-mass black holes, galaxy evolution"
+26,6/14/2026 11:02,6/14/2026 11:11,anonymous,,Fabrizia,Guglielmetti,ESO,"Data-driven image analysis · Bayesian Probability Theory · Radio interferometry · ISM/CGM, galaxy evolution, YSOs"
+27,6/14/2026 22:52,6/14/2026 22:53,anonymous,,Pikky,Atri,ASTRON/Radboud University,"Stellar mass black holes, X-ray binaries, Radio Interferometry, Accretion and jet launching"
+28,6/15/2026 0:15,6/15/2026 0:18,anonymous,,Henrik,Eklund,European Space Agency (ESA),"Radio interferometry, Space missions design, Instrumental design, Imaging methodology, Science development"
+29,6/15/2026 3:29,6/15/2026 3:30,anonymous,,Guifré,Molera Calvés,University of Tasmania,"VLBI, radio science, planetary spacecraft, orbit determination, solar system, heliophysics"
+30,6/15/2026 8:51,6/15/2026 8:54,anonymous,,Wouter,Laauwen,SRON Space Research Organisation Netherlands,Far Infrared; Detectors; HEB; Space Instruments/Missions
+31,6/15/2026 8:57,6/15/2026 8:58,anonymous,,Marjolein,Verkouter,Joint Intitute for VLBI ERIC,"VLBI technical developments,data transport,correlation,calibration"
+32,6/15/2026 9:38,6/15/2026 9:39,anonymous,,Giuseppe,Cimo',Joint Institute for VLBI ERIC,"VLBI technology, space missions"
+33,6/15/2026 9:39,6/15/2026 9:40,anonymous,,Eric,Villard,European Southern Observatory,"Space interferometry, mission concepts, high-precision relative navigation, and community coordination"
+34,6/15/2026 9:39,6/15/2026 9:42,anonymous,,Aard,Keimpema,Joint Institute for VLBI ERIC,"Correlation, VLBI, GPU"
