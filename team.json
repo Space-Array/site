@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Pikky Atri",
+    "role": "",
+    "affiliation": "ASTRON/Radboud University",
+    "interests": "Stellar mass black holes, X-ray binaries, Radio Interferometry, Accretion and jet launching"
+  },
+  {
+    "name": "Marusa Bradac",
+    "role": "",
+    "affiliation": "University of Ljubljana, FMF",
+    "interests": "Epoch of reionization, dark matter, black holes"
+  },
+  {
+    "name": "Lars Bååth",
+    "role": "",
+    "affiliation": "Halmstad University, Sweden",
+    "interests": "AGN jets and BH, interferometry"
+  },
+  {
+    "name": "Guifré Molera Calvés",
+    "role": "",
+    "affiliation": "University of Tasmania",
+    "interests": "VLBI, radio science, planetary spacecraft, orbit determination, solar system, heliophysics"
+  },
+  {
+    "name": "Chi-kwan Chan",
+    "role": "",
+    "affiliation": "University of Arizona",
+    "interests": "Theory, simulations, data processing"
+  },
+  {
+    "name": "Yaocheng Chen",
+    "role": "",
+    "affiliation": "IAG, University of São Paulo",
+    "interests": "FPGA, GPU interferometry"
+  },
+  {
+    "name": "Giuseppe Cimo'",
+    "role": "",
+    "affiliation": "Joint Institute for VLBI ERIC",
+    "interests": "VLBI technology, space missions"
+  },
+  {
+    "name": "Pierre Cox",
+    "role": "",
+    "affiliation": "Institut d'Astrophysique de Paris",
+    "interests": "Galaxies Gravitational Amplification"
+  },
+  {
+    "name": "Henrik Eklund",
+    "role": "",
+    "affiliation": "European Space Agency (ESA)",
+    "interests": "Radio interferometry, Space missions design, Instrumental design, Imaging methodology, Science development"
+  },
+  {
+    "name": "Florian Eppel",
+    "role": "",
+    "affiliation": "Joint Institute for VLBI ERIC",
+    "interests": "AGN, radio jets, multi-wavelength variability, FRBs"
+  },
+  {
+    "name": "Rob Fender",
+    "role": "",
+    "affiliation": "University of Oxford",
+    "interests": "Jets accretion radio astronomy transients"
+  },
+  {
+    "name": "Sándor Frey",
+    "role": "",
+    "affiliation": "Konkoly Observatory",
+    "interests": "quasars, jets, high redshift"
+  },
+  {
+    "name": "Marcello Giroletti",
+    "role": "",
+    "affiliation": "INAF Istituto di Radioastronomia",
+    "interests": "AGN, jets, black holes, transients, compact objects"
+  },
+  {
+    "name": "Fabrizia Guglielmetti",
+    "role": "",
+    "affiliation": "ESO",
+    "interests": "Data-driven image analysis · Bayesian Probability Theory · Radio interferometry · ISM/CGM, galaxy evolution, YSOs"
+  },
+  {
+    "name": "José L. Gómez",
+    "role": "",
+    "affiliation": "Instituto de Astrofísica de Andalucía",
+    "interests": "Photon ring"
+  },
+  {
+    "name": "Daryl Haggard",
+    "role": "",
+    "affiliation": "McGill University / Trottier Space Institute",
+    "interests": "black hole accretion and outflow, multi-messenger astrophysics"
+  },
+  {
+    "name": "David Hughes",
+    "role": "",
+    "affiliation": "Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)",
+    "interests": "Galaxy Evolution, AGN, Cosmology"
+  },
+  {
+    "name": "Matthias Kadler",
+    "role": "",
+    "affiliation": "JMU Würzburg",
+    "interests": "Relativistic Jets"
+  },
+  {
+    "name": "Wouter Laauwen",
+    "role": "",
+    "affiliation": "SRON Space Research Organisation Netherlands",
+    "interests": "Far Infrared; Detectors; HEB; Space Instruments/Missions"
+  },
+  {
+    "name": "Rocco Lico",
+    "role": "",
+    "affiliation": "Institute of Radio Astronomy (IRA-INAF, Italy)",
+    "interests": "Black holes and relativistic jets"
+  },
+  {
+    "name": "Manuel Martin-Neira",
+    "role": "",
+    "affiliation": "European Space Agency",
+    "interests": "Orbital configuration, relative time-positioning, syntonization/synchronization concepts, optical inter-satellite links, on-board correlator, frequency phase transfer and calibration techniques"
+  },
+  {
+    "name": "Mar Mezcua",
+    "role": "",
+    "affiliation": "Instituto de Ciencias del Espacio (ICE-CSIC)",
+    "interests": "supermassive black holes, intermediate-mass black holes, galaxy evolution"
+  },
+  {
+    "name": "George Miley",
+    "role": "",
+    "affiliation": "Sterrewacht Leiden, Leiden University",
+    "interests": "Radio sources and their role in galaxy formation and evolution"
+  },
+  {
+    "name": "Georgios Filippos Paraschos",
+    "role": "",
+    "affiliation": "FINCA / Aalto / MPIfR",
+    "interests": "AGN, Jet, SMBH, multi-messenger, VLBI"
+  },
+  {
+    "name": "Mamta Pommier",
+    "role": "",
+    "affiliation": "University of Lyon",
+    "interests": "Space based radio astronomy, VLBI from space"
+  },
+  {
+    "name": "Saurabh Saurabh",
+    "role": "",
+    "affiliation": "Max Planck Institute for Radio Astronomy",
+    "interests": "Testing General Relativity, Accretion, Black hole Imaging, VLBI"
+  },
+  {
+    "name": "Sarrvesh Sridhar",
+    "role": "",
+    "affiliation": "Square Kilometre Array Observatory (SKAO)",
+    "interests": "Space interferometry and simulating synthetic data"
+  },
+  {
+    "name": "Boon Kok Tan",
+    "role": "",
+    "affiliation": "University of Oxford",
+    "interests": "Spectrometric heterodyne receivers development for Space Array"
+  },
+  {
+    "name": "Efthalia (Thalia) Traianou",
+    "role": "",
+    "affiliation": "IWR",
+    "interests": "AGN, Blazars, SMBHB, Multi-messenger Astronomy"
+  },
+  {
+    "name": "Marjolein Verkouter",
+    "role": "",
+    "affiliation": "Joint Intitute for VLBI ERIC",
+    "interests": "VLBI technical developments,data transport,correlation,calibration"
+  },
+  {
+    "name": "Eric Villard",
+    "role": "Initiative Founder",
+    "affiliation": "European Southern Observatory",
+    "interests": "Space interferometry, mission concepts, high-precision relative navigation, and community coordination"
+  },
+  {
+    "name": "Rahul Kumar Walia",
+    "role": "",
+    "affiliation": "University College London",
+    "interests": "Gravitational Physics, Test of Gravity Theories, Photon Rings, Ultra-Compact Objects"
+  },
+  {
+    "name": "Martina Wiedner",
+    "role": "",
+    "affiliation": "Observatoire de Paris, France",
+    "interests": "Heterodyne Instrumentation"
+  }
+]
