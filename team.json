@@ -6,6 +6,18 @@
     "interests": "Stellar mass black holes, X-ray binaries, Radio Interferometry, Accretion and jet launching"
   },
   {
+    "name": "Anne-Kathrin Baczko",
+    "role": "",
+    "affiliation": "Chalmers University of Technology",
+    "interests": "AGN, jets, SMBH, radio astronomy, LLAGN"
+  },
+  {
+    "name": "Vladislavs Bezrukovs",
+    "role": "",
+    "affiliation": "Engineering Research Institute “Ventspils International Radio Astronomy Centre (VIRAC)” of Ventspils University of Applied Sciences",
+    "interests": "Radio astronomy, VLBI, AGN, Solar physics, and space weather."
+  },
+  {
     "name": "Marusa Bradac",
     "role": "",
     "affiliation": "University of Ljubljana, FMF",
@@ -22,6 +34,12 @@
     "role": "",
     "affiliation": "University of Tasmania",
     "interests": "VLBI, radio science, planetary spacecraft, orbit determination, solar system, heliophysics"
+  },
+  {
+    "name": "Viviana Casasola",
+    "role": "",
+    "affiliation": "INAF-IRA Bologna",
+    "interests": "Black Holes"
   },
   {
     "name": "Chi-kwan Chan",
@@ -42,10 +60,28 @@
     "interests": "VLBI technology, space missions"
   },
   {
+    "name": "Fraser J. Cowie",
+    "role": "",
+    "affiliation": "University of Oxford",
+    "interests": "Stellar mass compact objects, jet launching, accretion, particle acceleration, transients"
+  },
+  {
     "name": "Pierre Cox",
     "role": "",
     "affiliation": "Institut d'Astrophysique de Paris",
     "interests": "Galaxies Gravitational Amplification"
+  },
+  {
+    "name": "Nathalie Degenaar",
+    "role": "",
+    "affiliation": "University of Amsterdam",
+    "interests": "Black holes, neutron stars, X-ray binaries, accretion, jets, winds, ISM interactions"
+  },
+  {
+    "name": "Nicolas Delong",
+    "role": "",
+    "affiliation": "CNES France",
+    "interests": "Orbit Determination, On Board Navigation, GNSS"
   },
   {
     "name": "Henrik Eklund",
@@ -72,6 +108,12 @@
     "interests": "quasars, jets, high redshift"
   },
   {
+    "name": "Michael Garrett",
+    "role": "",
+    "affiliation": "Universities of Manchester & Leiden",
+    "interests": "Technosignatures"
+  },
+  {
     "name": "Marcello Giroletti",
     "role": "",
     "affiliation": "INAF Istituto di Radioastronomia",
@@ -82,6 +124,12 @@
     "role": "",
     "affiliation": "ESO",
     "interests": "Data-driven image analysis · Bayesian Probability Theory · Radio interferometry · ISM/CGM, galaxy evolution, YSOs"
+  },
+  {
+    "name": "Andre Gunst",
+    "role": "",
+    "affiliation": "ASTRON",
+    "interests": "System architecture"
   },
   {
     "name": "José L. Gómez",
@@ -102,6 +150,12 @@
     "interests": "Galaxy Evolution, AGN, Cosmology"
   },
   {
+    "name": "Violette Impellizzeri",
+    "role": "",
+    "affiliation": "ASTRON",
+    "interests": "Black hole science"
+  },
+  {
     "name": "Matthias Kadler",
     "role": "",
     "affiliation": "JMU Würzburg",
@@ -112,6 +166,18 @@
     "role": "",
     "affiliation": "Joint Institute for VLBI ERIC",
     "interests": "Correlation, VLBI, GPU"
+  },
+  {
+    "name": "Kees van ‘t Klooster",
+    "role": "",
+    "affiliation": "Former Esa staff",
+    "interests": "Space technology advancements"
+  },
+  {
+    "name": "Yuri Kovalev",
+    "role": "",
+    "affiliation": "MPIfR",
+    "interests": "black holes, AGN jets, multimessenger, SVLBI technology"
   },
   {
     "name": "Wouter Laauwen",
@@ -130,6 +196,12 @@
     "role": "",
     "affiliation": "European Space Agency",
     "interests": "Orbital configuration, relative time-positioning, syntonization/synchronization concepts, optical inter-satellite links, on-board correlator, frequency phase transfer and calibration techniques"
+  },
+  {
+    "name": "Rasmus Maråk",
+    "role": "",
+    "affiliation": "Scaleout Systems",
+    "interests": "Mission Analysis, Simulations, Onboard AI, Science Applications."
   },
   {
     "name": "Mar Mezcua",
@@ -168,10 +240,22 @@
     "interests": "Space interferometry and simulating synthetic data"
   },
   {
+    "name": "Jan Stake",
+    "role": "",
+    "affiliation": "Chalmers university of technology",
+    "interests": "terahertz sources and mixers"
+  },
+  {
     "name": "Boon Kok Tan",
     "role": "",
     "affiliation": "University of Oxford",
     "interests": "Spectrometric heterodyne receivers development for Space Array"
+  },
+  {
+    "name": "M. Carmen Toribio",
+    "role": "",
+    "affiliation": "Onsala Space Observatory, Department of Physics and Astronomy, Chalmers Universtity of Technology",
+    "interests": "Extragalactic spectral line observations, radiointerferometry"
   },
   {
     "name": "Efthalia (Thalia) Traianou",
@@ -202,5 +286,11 @@
     "role": "",
     "affiliation": "Observatoire de Paris, France",
     "interests": "Heterodyne Instrumentation"
+  },
+  {
+    "name": "Kaj Wiik",
+    "role": "",
+    "affiliation": "Aalto University, Finland",
+    "interests": "AGN, Signal processing, FPGA gateware and microwave frontends, FPT and polarimetry calibration, Bayesian inference"
   }
 ]
