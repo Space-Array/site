@@ -12,6 +12,12 @@
     "interests": "AGN, jets, SMBH, radio astronomy, LLAGN"
   },
   {
+    "name": "Tom Bakx",
+    "role": "",
+    "affiliation": "Chalmers UoT",
+    "interests": "Distant galaxies, resolved ISM, gravitational lensing"
+  },
+  {
     "name": "Vladislavs Bezrukovs",
     "role": "",
     "affiliation": "Engineering Research Institute “Ventspils International Radio Astronomy Centre (VIRAC)” of Ventspils University of Applied Sciences",
@@ -114,6 +120,12 @@
     "interests": "Technosignatures"
   },
   {
+    "name": "Gabriele Giovannini",
+    "role": "",
+    "affiliation": "Bologna University & IRA/INAF",
+    "interests": "AGN , Relativistic jets"
+  },
+  {
     "name": "Marcello Giroletti",
     "role": "",
     "affiliation": "INAF Istituto di Radioastronomia",
@@ -190,6 +202,18 @@
     "role": "",
     "affiliation": "Institute of Radio Astronomy (IRA-INAF, Italy)",
     "interests": "Black holes and relativistic jets"
+  },
+  {
+    "name": "Michael Lindqvist",
+    "role": "",
+    "affiliation": "Chalmers",
+    "interests": "Black holes, VLBI technology, space missions"
+  },
+  {
+    "name": "Benito Marcote",
+    "role": "",
+    "affiliation": "Joint Institute for VLBI ERIC",
+    "interests": "high-energy binaries, fast radio bursts, VLBI, gamma-ray bursts"
   },
   {
     "name": "Manuel Martin-Neira",
@@ -274,6 +298,12 @@
     "role": "Initiative Founder",
     "affiliation": "European Southern Observatory",
     "interests": "Space interferometry, mission concepts, high-precision relative navigation, and community coordination"
+  },
+  {
+    "name": "Frederic Vincent",
+    "role": "",
+    "affiliation": "CNRS / Observatoire de Paris / LIRA",
+    "interests": "BH environment, photon ring, tests of GR"
   },
   {
     "name": "Rahul Kumar Walia",
