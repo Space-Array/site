@@ -198,6 +198,12 @@
     "interests": "Far Infrared; Detectors; HEB; Space Instruments/Missions"
   },
   {
+    "name": "Huib Jan van Langevelde",
+    "role": "",
+    "affiliation": "JIVE/Leiden",
+    "interests": "Masers/astrometry"
+  },
+  {
     "name": "Rocco Lico",
     "role": "",
     "affiliation": "Institute of Radio Astronomy (IRA-INAF, Italy)",
@@ -310,6 +316,12 @@
     "role": "",
     "affiliation": "University College London",
     "interests": "Gravitational Physics, Test of Gravity Theories, Photon Rings, Ultra-Compact Objects"
+  },
+  {
+    "name": "Hui Wang",
+    "role": "",
+    "affiliation": "RAL Space, UK",
+    "interests": "THz source, heterodyne receivers, system integration"
   },
   {
     "name": "Martina Wiedner",
