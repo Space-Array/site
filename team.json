@@ -144,6 +144,12 @@
     "interests": "System architecture"
   },
   {
+    "name": "Leonid Gurvits",
+    "role": "",
+    "affiliation": "Delft University of Technology, The Netherlands",
+    "interests": "Spaceborne astrophysics, space VLBI (science, system design, instrumentation), multimessenger astronomy"
+  },
+  {
     "name": "José L. Gómez",
     "role": "",
     "affiliation": "Instituto de Astrofísica de Andalucía",
@@ -290,7 +296,7 @@
   {
     "name": "Efthalia (Thalia) Traianou",
     "role": "",
-    "affiliation": "IWR",
+    "affiliation": "Heidelberg University (IWR)",
     "interests": "AGN, Blazars, SMBHB, Multi-messenger Astronomy"
   },
   {
@@ -334,5 +340,11 @@
     "role": "",
     "affiliation": "Aalto University, Finland",
     "interests": "AGN, Signal processing, FPGA gateware and microwave frontends, FPT and polarimetry calibration, Bayesian inference"
+  },
+  {
+    "name": "Albert Zurita",
+    "role": "",
+    "affiliation": "Airbus Defence and Space - Spain",
+    "interests": "Interferometric microwave radiometry instruments. System architecture and performance."
   }
 ]
