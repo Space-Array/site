@@ -18,6 +18,12 @@
     "interests": "Distant galaxies, resolved ISM, gravitational lensing"
   },
   {
+    "name": "Andrey Baryshev",
+    "role": "",
+    "affiliation": "Kapteyn Astronomical Institute/NOVA",
+    "interests": "Quantum Limited Heterodyne receivers, Astronomical Instrumentation"
+  },
+  {
     "name": "Vladislavs Bezrukovs",
     "role": "",
     "affiliation": "Engineering Research Institute “Ventspils International Radio Astronomy Centre (VIRAC)” of Ventspils University of Applied Sciences",
@@ -90,6 +96,12 @@
     "interests": "Orbit Determination, On Board Navigation, GNSS"
   },
   {
+    "name": "Vincent Desmaris",
+    "role": "",
+    "affiliation": "Chalmers univeraity",
+    "interests": "Receivers, technology"
+  },
+  {
     "name": "Henrik Eklund",
     "role": "",
     "affiliation": "European Space Agency (ESA)",
@@ -132,6 +144,12 @@
     "interests": "AGN, jets, black holes, transients, compact objects"
   },
   {
+    "name": "Ciriaco Goddi",
+    "role": "",
+    "affiliation": "University of Cagliari (Italy) / University of Sao Paulo (Brasil)",
+    "interests": "AGN and black hole physics - magnetic fields – polarization - spectral lines (masers) - Interferometry (mm, VLBI) - Astronomy data acquisition"
+  },
+  {
     "name": "Fabrizia Guglielmetti",
     "role": "",
     "affiliation": "ESO",
@@ -160,6 +178,12 @@
     "role": "",
     "affiliation": "McGill University / Trottier Space Institute",
     "interests": "black hole accretion and outflow, multi-messenger astrophysics"
+  },
+  {
+    "name": "Peter Huggard",
+    "role": "",
+    "affiliation": "STFC RAL Space Millimetre Wave Technology Group",
+    "interests": "mm-wave to THz receiver technology, photonics, instrument AIT"
   },
   {
     "name": "David Hughes",
@@ -252,6 +276,12 @@
     "interests": "Radio sources and their role in galaxy formation and evolution"
   },
   {
+    "name": "Antonios Nathanail",
+    "role": "",
+    "affiliation": "RCAAM OF THE ACADEMY OF ATHENS",
+    "interests": "black hole accretion, jet launching"
+  },
+  {
     "name": "Georgios Filippos Paraschos",
     "role": "",
     "affiliation": "FINCA / Aalto / MPIfR",
@@ -262,6 +292,18 @@
     "role": "",
     "affiliation": "University of Lyon",
     "interests": "Space based radio astronomy, VLBI from space"
+  },
+  {
+    "name": "Maria J. Rioja",
+    "role": "",
+    "affiliation": "ICRAR-UWA",
+    "interests": "Interferometry, Calibration, Analysis Techniques"
+  },
+  {
+    "name": "Jan Röder",
+    "role": "",
+    "affiliation": "IAA-CSIC",
+    "interests": "black hole astrophysics and relativistic jets"
   },
   {
     "name": "Saurabh Saurabh",
@@ -332,14 +374,26 @@
   {
     "name": "Martina Wiedner",
     "role": "",
-    "affiliation": "Observatoire de Paris, France",
-    "interests": "Heterodyne Instrumentation"
+    "affiliation": "Observatoire de Paris",
+    "interests": "Heterodyne Instrumentation; System Engineering"
   },
   {
     "name": "Kaj Wiik",
     "role": "",
     "affiliation": "Aalto University, Finland",
     "interests": "AGN, Signal processing, FPGA gateware and microwave frontends, FPT and polarimetry calibration, Bayesian inference"
+  },
+  {
+    "name": "Tommy Wiklind",
+    "role": "",
+    "affiliation": "Catholic University of America",
+    "interests": "Far-infrared, submm, extra-galactic, molecular clouds, HII regions, metallicity"
+  },
+  {
+    "name": "Michael Florian Wondrak",
+    "role": "",
+    "affiliation": "University of Amsterdam",
+    "interests": "Gravitational physics, Static and dynamical tests of general relativity (GR), Jet launching by supermassive black holes"
   },
   {
     "name": "Albert Zurita",
