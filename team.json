@@ -36,6 +36,12 @@
     "interests": "Epoch of reionization, dark matter, black holes"
   },
   {
+    "name": "Morag Brown",
+    "role": "",
+    "affiliation": "Netherlands Institute for Radio Astronomy (ASTRON)",
+    "interests": "Sustainability and ethics, field programmable gate arrays (FPGAs), communications, signal processing"
+  },
+  {
     "name": "Lars Bååth",
     "role": "",
     "affiliation": "Halmstad University, Sweden",
@@ -312,6 +318,12 @@
     "interests": "Space VLBI concept development, science simulations, black holes, VLBI data analysis, SHARPEx demonstrator development"
   },
   {
+    "name": "Kazi Rygl",
+    "role": "",
+    "affiliation": "INAF-Istituto di Radioastronomia",
+    "interests": "Star formation, Masers, Galactic structure"
+  },
+  {
     "name": "Jan Röder",
     "role": "",
     "affiliation": "IAA-CSIC",
@@ -322,6 +334,12 @@
     "role": "",
     "affiliation": "Max Planck Institute for Radio Astronomy",
     "interests": "Testing General Relativity, Accretion, Black hole Imaging, VLBI"
+  },
+  {
+    "name": "Josep Closa Soteras",
+    "role": "",
+    "affiliation": "Airbus Defence and Space",
+    "interests": "System implementation"
   },
   {
     "name": "Sarrvesh Sridhar",
