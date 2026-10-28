@@ -2,7 +2,7 @@
 
 The public website of the Space Array Initiative: https://spacearray.org
 
-The site is plain HTML and CSS. GitHub Pages publishes the `main` branch. Every merge to `main` goes live about one minute later.
+The site is plain HTML and CSS. GitHub Pages publishes the `main` branch. Every merge to `main` goes live within a few minutes.
 
 ## Files
 
@@ -36,20 +36,16 @@ The site is plain HTML and CSS. GitHub Pages publishes the `main` branch. Every 
 </article>
 ```
 
-## How to add a team member
+## How to update the team page
 
-Add an entry to `team.json`, in alphabetical order by last name:
+The Team page reads `team.json`. The script `tools/csv_to_json.py` builds that file from the sign-up form responses.
 
-```json
-{
-  "name": "First Last",
-  "role": "",
-  "affiliation": "Institute",
-  "interests": "Keywords, separated by commas"
-}
-```
+1. Export the form responses as a CSV file.
+2. Save it in the `data/` folder, with the same file name as the CSV that is there now.
+3. Run `python3 tools/csv_to_json.py`. It rewrites `team.json`, sorted by last name.
+4. Commit the new `team.json`.
 
-Leave `role` empty unless the person has a role in the initiative.
+Do not edit `team.json` by hand. The script overwrites it the next time it runs.
 
 ## How to review and merge a pull request
 
