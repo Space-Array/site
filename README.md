@@ -25,6 +25,51 @@ Files in `public/` go online as they are. For example, `public/images/photo.jpg`
 
 The page addresses did not change. `src/pages/news.astro` is still at `https://spacearray.org/news.html`.
 
+## How to change the text on a page
+
+1. Open the page's file in `src/pages/` on GitHub (see the table above) and click the pencil icon.
+2. Change the text between `<main>` and `</main>`. It is normal HTML.
+3. Click **Commit changes**, choose **Create a new branch**, then **Propose changes**.
+4. Open the pull request and merge it (see below).
+
+Each page file starts like this. Leave these lines as they are:
+
+```astro
+---
+import Layout from "../layouts/Layout.astro";
+---
+<Layout title="Science · Space Array" active="science.html">
+```
+
+The last line of the file is `</Layout>`. Leave it as well.
+
+**Curly brackets:** do not type `{` or `}` in the text. Astro reads them as code, and the build fails. Write `&#123;` for `{` and `&#125;` for `}`.
+
+## How to add a page
+
+A new page needs a file and a menu link.
+
+1. Open a page in `src/pages/` on GitHub, for example `science.astro`, and copy all of its text.
+2. Go to the `src/pages/` folder. Click **Add file**, then **Create new file**. Give it a short name, for example `events.astro`, and paste the text. Its address is then `https://spacearray.org/events.html`.
+3. In the `<Layout ...>` line of the new file, change the title and set `active` to the new address:
+
+   ```astro
+   <Layout title="Events · Space Array" active="events.html">
+   ```
+
+4. Replace the text between `<main>` and `</main>`.
+5. Click **Commit changes**, choose **Create a new branch**, then **Propose changes**.
+6. Add the menu link in the same branch. On the repository page, switch the branch menu from `main` to your new branch. Open `src/layouts/Layout.astro` and click the pencil icon.
+7. In the menu (`<nav>`), copy one link line and change it to the new page:
+
+   ```astro
+   <a class={active === "events.html" ? "active" : undefined} href={`${base}events.html`}>Events</a>
+   ```
+
+8. Click **Commit changes** and choose **Commit directly to** your branch. Then open the pull request and merge it.
+
+The menu on every page now shows the link. The link is highlighted on the new page.
+
 ## How to add a news item
 
 1. Open `src/pages/news.astro` on GitHub and click the pencil icon.
@@ -76,6 +121,32 @@ A pull request (PR) is a proposed change. Nothing goes live until someone merges
 5. When you are happy, click **Merge pull request**, then **Confirm merge**.
 
 To undo a merged PR, open it and click **Revert**. GitHub creates a new PR that undoes the change.
+
+## If the site does not update after a merge
+
+After each merge, GitHub builds the site. Open the **Actions** tab to see the build.
+
+- A green check means the build worked and the live site has the change.
+- A red X means the build failed. The live site does not change. It keeps the last version that built.
+
+To find the problem:
+
+1. Click the failed run, then click **build**.
+2. Look for `ERROR`. The lines near it name the page, for example `science.astro:19` (the file and line number) or `rendering /science`.
+3. Fix it in a new PR. Or open the PR that caused it and click **Revert**.
+
+Two common causes: a `{` or `}` in the text (see "How to change the text on a page"), or a deleted `</Layout>` line.
+
+## Preview the site on your own computer
+
+This is optional. You only need it to see a change before you open a PR.
+
+1. Install [Node.js](https://nodejs.org) version 22.12 or later.
+2. In the repository folder, run `npm ci` once. It installs Astro.
+3. Run `npm run dev` and open http://localhost:4321 in a browser. When you save a file, the page updates.
+4. Press **Ctrl+C** to stop it. If it started in the background, run `npx astro dev stop`.
+
+To check that GitHub can build your change, run `npm run build`. It must end with `Complete!`. The built site is in `dist/`.
 
 ## License
 
