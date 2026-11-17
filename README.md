@@ -141,7 +141,7 @@ Two common causes: a `{` or `}` in the text (see "How to change the text on a pa
 
 This is optional. You only need it to see a change before you open a PR.
 
-1. Install [Node.js](https://nodejs.org) version 22.12 or later.
+1. Install [Node.js](https://nodejs.org) version 22.23.4 or later.
 2. In the repository folder, run `npm ci` once. It installs Astro.
 3. Run `npm run dev` and open http://localhost:4321 in a browser. When you save a file, the page updates.
 4. Press **Ctrl+C** to stop it. If it started in the background, run `npx astro dev stop`.
